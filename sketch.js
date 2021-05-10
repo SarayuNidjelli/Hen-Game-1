@@ -2,9 +2,9 @@ var hen,  basket;
 var egg;
 
 function preload(){
-  henImg = loadImage("images/hen.png");
-  eggImg = loadImage("images/egg.png");
-  basketImg = loadImage("images/basket.png");
+  henImg = loadImage("hen.png");
+  eggImg = loadImage("egg.png");
+  basketImg = loadImage("basket.png");
 }
 
 function setup() {
